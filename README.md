@@ -1,5 +1,5 @@
 # 🚪 Welcome to my Profile!
-🎈 I’m currently learning JavaScript<br><br>📫 Contact: tyme3 (discord)<br>
+🎈 I’m currently learning Java Script and Type Script <br><br>📫 Contact: tyme3 (discord)<br>
 ![](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 # 💻 Skills:
