@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/1144406168500969644" target="_blank">
-    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/292279578389643264?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/1144406168500969644?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
 <br><br>
 
 # Hello 👋
@@ -15,7 +15,7 @@ I like opensource programs very much and I like learning about new technologies 
 <sub> 🕯 ***(I spent too much of my time writing plugins for Counter Strike 1.6)*** 🕯 </sub>
 
 #### 📫 Contact and Socials 🔎
-<a href="https://discord.com/users/292279578389643264" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/1144406168500969644" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/KoRrNiK1" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/korrnik" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
 <a href="https://www.twitch.tv/korrnik_" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
