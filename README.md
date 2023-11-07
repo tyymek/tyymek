@@ -6,13 +6,10 @@
 
 <br>
 
-> On the Internet, people call me **KoRrNiK**.
-I'm a software/web developer from Poland who's __19 years__ old and has been coding for over __5 years__.
-I like opensource programs very much and I like learning about new technologies 👀
+> On the Internet, people call me **Tymek**.
+I'm a front-end developer from Poland who's __15 years__ old and has been coding for over __1 year__.👀
 
 <br>
-
-<sub> 🕯 ***(I spent too much of my time writing plugins for Counter Strike 1.6)*** 🕯 </sub>
 
 #### 📫 Contact and Socials 🔎
 <a href="https://discord.com/users/1144406168500969644" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
