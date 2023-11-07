@@ -7,9 +7,9 @@
 * Creating resources for [**FiveM**](https://fivem.net)
 * Creating tools for **GTA V**
 
-  -</a>
-<a href="https://wakatime.com/@KoRrNiK" target="_blank">
-    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=korrnik&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
-</a>-
+#### 📫 Contact and Socials 🔎
+<a href="https://discord.com/users/292279578389643264" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/KoRrNiK1" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
+
 
 ----
