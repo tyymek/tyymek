@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/1144406168500969644"><img align="right" src="https://lanyard.cnrad.dev/api/1144406168500969644"></a>
+
 
 ### Hi!
 > I dont like to use my name, but in the Internet they call me **tymek**<br>
