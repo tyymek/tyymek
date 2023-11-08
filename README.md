@@ -16,9 +16,3 @@ I like to experiment with programs, and do stuff my way.<br>
 <a href="https://discord.com/users/1144406168500969644" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC3BfDOzWaS7RLOXQURQoW4w" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-Youtube-0D1117?style=flat-square&logo=youtube&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/tyymek/" target="_blank"><img alt="steam" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake.svg">
-</picture>
