@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I'm a 15 year old junir back-end developer from Poland.</h3>
+<h3 align="center">I'm a 15 year old junior back-end developer from Poland.</h3>
 
 ###
 
