@@ -1,30 +1,24 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm tymek</h1>
+<h1 align="center">👋 Hello, I'm Aleks</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|tyymek.xyz" />
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+</div>
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+###
 
-```diff
-@@Info@@
-🚀 I'm still learning languages like
+<h3 align="center">🌱 I’m currently learning TypeScript, React<br>⚡ Fun fact: I like strict typing and use it in main projects.</h3>
 
-```
+###
 
-### Connect with me:
+<div align="center">
+  <a href='https://tyymek.xyz/'>
+      <img src="https://img.shields.io/static/v1?message=Web&label=Aleks&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
+  </a>
+</div>
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://tyymek.xyz/ ]
-<br />
-
-
-### My Stats !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tyymek&count_private=true&show_icons=true?theme=buefy)
-
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/tyymek/count.svg)
-
-<br />
-
+###
