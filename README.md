@@ -1,5 +1,5 @@
 <b>Hi there 👋</b>, I'm front-end developer from Poland
-- 📫 How to reach me **tymek@cukrzyk.eu**
+- 📫 How to reach me **tymek@high.com**
 - 🧱 Things I'm working on
   - [Soon.eu](https://soon.org.pl/)
 
