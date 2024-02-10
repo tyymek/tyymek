@@ -1,24 +1,22 @@
-<h1 align="center">👋 Hello, I'm Tymek</h1>
+<b>Hi there 👋</b>, I'm front-end developer from Poland
+- 📫 How to reach me **tymek@cukrzyk.eu**
+- 🧱 Things I'm working on
+  - [Soon.eu](https://soon.org.pl/)
 
-###
+<b>Things I code with</b>
+<p>
+  <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="center">🌱 I’m currently learning TypeScript, React<br>⚡ Fun fact: I like strict typing and use it in main projects.</h3>
-
-###
-
-<div align="center">
-  <a href='https://tyymek.xyz/'>
-      <img src="https://img.shields.io/static/v1?message=Web&label=Tymek&color=lightgrey&labelColor=&style=for-the-badgee" height="40" />
-  </a>
-</div>
-
-###
+<details><summary>📈 Activity Graph</summary>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyymek&theme=github-compact" />
+  </p>
+</details>
